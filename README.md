@@ -28,9 +28,5 @@ To use the app, simply type the name of the city you want to search for in the s
 # Demo
 A live demo of the React Weather App is available at [LINK TO LIVE DEMO](https://react-weather-app-shemmee.netlify.app).
 
-# Credits
-- The weather app was created by [s-shemmee](https://github.com/s-shemmee) as a final project for the SheCodes React workshop.
-- The app uses the SheCodes Weather API to retrieve weather data.
-
 # License
 This project is licensed under the MIT license.
